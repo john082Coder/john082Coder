@@ -13,7 +13,7 @@ About Me
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
 
 [![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/john082Coder/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
