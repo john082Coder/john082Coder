@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 About Me
+😎 Trusted engineer with 5+ years of experience in blockchain industry.
 
-- 🔭 I’m currently working on several blockchain projects including DeFi and NFT.
+- 🔭 I’m currently working on several blockchain projects related to DeFi and NFT.
 - 🌱 I’m currently learning Rust for developing smart contracts on Solana.
 - 👯 I’m looking to collaborate on developing trend NFT games.
 - 📫 How to reach me: Telegram ID:
