@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About Me
+
 😎 Trusted engineer with 5+ years of experience in blockchain industry.
 
 - 🔭 I’m currently working on several blockchain projects related to DeFi and NFT.
